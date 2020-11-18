@@ -1,4 +1,5 @@
 # outdoorsey-challenge
+
 ## Before You Run the Notebook
 I am using a local spark to run this notebook. Do the following
 1. install JDK 8 
@@ -21,4 +22,4 @@ Simply run 'pyspark'.
 % pyspark
 ```
 
-pyspark will bring up the jupyter notebook in the browser. 
+pyspark will bring up the jupyter notebook in the browser. The dataset is in the repo. The code is in the notebook. You should be able to run it directly from the notebook.
